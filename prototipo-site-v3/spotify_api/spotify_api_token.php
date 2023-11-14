@@ -1,7 +1,7 @@
 <?php
 
-$client_id = '0a2df32981fb4b02a2f0b5e63f13385f';
-$client_secret = 'bd01819477b44c2c9bcf32b28cf045f6';
+$client_id = '';
+$client_secret = '';
 
 // Configuração da solicitação
 $authOptions = array(
