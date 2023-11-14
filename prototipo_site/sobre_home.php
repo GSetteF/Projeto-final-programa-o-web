@@ -1,1 +1,0 @@
-<h1> Sobre os artistas!</h1>
